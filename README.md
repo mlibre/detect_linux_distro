@@ -6,6 +6,7 @@ Simple **python** 3 module/api to detect **Linux distribution**.
 * Example
 * Step By Step example
 * Tested Distributions
+* [Donate](#donate)
 
 ## Install from source/git
 ~~~bash
