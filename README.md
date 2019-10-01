@@ -63,5 +63,5 @@ my_linux_name.print_all_result()
 >note: probably it's work on all distribution, but i did not test.
 
 ## Donate
-My Coinbase Bitcoin Wallet Address:
-> 3ASnE6ZPk4tYWvEGzwFiMp8wiMtJ1UquAV
+My Bitcoin Address:
+> 3JfNjydkEgKGjsnrU1SoCCAv1q2yTuCoDY
